@@ -60,7 +60,7 @@
     background-color: rgba(241, 83, 83, 0.5);
 }
 .batton2{
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(red,pink);
     color: white;
     font-weight: 700;
     border-radius: 5% ;
@@ -77,7 +77,8 @@
     text-align: center;
     padding-top: 30px;
     margin: 0px 
-    0px;
+    30px;
+    padding-left: 10px;
 }
 .shelter{
     width: 300px;
@@ -86,6 +87,7 @@
     text-align: center;
     padding-top: 30px;
     margin: 0px 30px;
+    padding-left: 10px;
 }
 .education{
     width: 300px;
@@ -94,10 +96,33 @@
     text-align: center;
     padding-top: 30px;
     margin: 0px 30px;
+    padding-left: 10px;
 }
 .box
 {
     display: flex;
     margin: 50px;
     padding: 20px;
+
+}
+.half{
+    width: 40%;
+    padding:20px ;
+    text-align: center;
+    margin-left: 30px;
+    
+     
+}
+  
+ 
+.discription1{
+    display: flex;
+}
+.photo2{
+    width: 5px;
+    height: 5px;
+    margin-right: 100px;
+}
+h1{
+    font-size: 40px;
 }
