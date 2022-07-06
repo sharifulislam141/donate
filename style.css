@@ -67,3 +67,37 @@
     text-align: center;
     text-decoration: none;
 }
+.donate-heading{
+    text-align: center;
+}
+.food{
+    width: 300px;
+    height: 250px;
+    background-color: aquamarine;
+    text-align: center;
+    padding-top: 30px;
+    margin: 0px 
+    0px;
+}
+.shelter{
+    width: 300px;
+    height: 250px;
+    background-color:rosybrown;
+    text-align: center;
+    padding-top: 30px;
+    margin: 0px 30px;
+}
+.education{
+    width: 300px;
+    height: 250px;
+    background-color:antiquewhite;
+    text-align: center;
+    padding-top: 30px;
+    margin: 0px 30px;
+}
+.box
+{
+    display: flex;
+    margin: 50px;
+    padding: 20px;
+}
