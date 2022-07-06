@@ -1,0 +1,69 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.top{
+    background-image: url(images/donation13.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 621px;
+    width: 100%;
+    color: azure;
+}
+.first-heading{
+    text-align: center;
+    padding: 80px;
+    font-size:70px;
+    
+}
+.top p{
+    text-align: center;
+     font-size: 25px;
+}
+.batton{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    border-radius: 5% ;
+    text-align: center;
+    margin-left: 45%;
+}
+ 
+    
+     
+
+ 
+.donate-today{
+    align-content: center;
+    
+    text-align: center;
+}
+ 
+.all-tk{
+    display: flex;
+    padding-left: 30%;
+} 
+.tk{
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    
+}
+._200{
+    border: 5px solid rgba(241, 83, 83, 0.5);
+    box-shadow: 20px;
+    text-shadow: 5px 5px 5px gray;
+
+    
+    background-color: rgba(241, 83, 83, 0.5);
+}
+.batton2{
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    border-radius: 5% ;
+    text-align: center;
+    text-decoration: none;
+}
